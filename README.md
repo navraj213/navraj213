@@ -17,12 +17,10 @@
         <ul>
           <li><a href="https://gist.github.com/navraj213/7e2624fe41f08434b9ef7409ea4b0516">TicTacToe Game</a> | made for a class project</li>
         </ul>
-      <!--
       <h4>Python 🐍</h4>
       <ul>
-        <li><a href="#">N/A</a></li>
+        <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a></li>
       </ui>
-    -->
     </ul>
     </p>
     <h3>Contact Me 🤳</h3>
