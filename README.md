@@ -11,7 +11,6 @@
   </p>
   
   <h3>Projects 📂</h3>
-  <p>
     <ul>
       <h4>Java ☕️</h4>
         <ul>
@@ -22,7 +21,7 @@
         <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a></li>
       </ui>
     </ul>
-    </p>
+    </ul>
     <h3>Contact Me 🤳</h3>
     <p>
     <ul>
