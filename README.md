@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <main>
   <h1>Hi, I’m Navraj Singh 👋 </h1>
   
@@ -31,7 +32,7 @@
     </p>
 
 </main>
-
+</html>
 
 
 
