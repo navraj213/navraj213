@@ -19,7 +19,7 @@
         </ul>
       <h4>Python 🐍</h4>
       <ul>
-        <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a></li>
+        <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a> | with 403 error prevention</li>
         <li><a href="https://gist.github.com/navraj213/c2e228a399dfa8a05ef21f21073e30be#file-emailtransmitter-py">Automatic Email Transmitter</a></li>
         <li><a href="https://gist.github.com/navraj213/9ca445be44940eb881860c3d23f88f79">Arithmetic Formatter</a></li>
         <li><a href="https://gist.github.com/navraj213/6cf2d5c81fa81a653df068d4089afc78#submitting">Time Calculator</a></li>
