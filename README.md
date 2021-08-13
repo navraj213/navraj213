@@ -23,6 +23,7 @@
         <li><a href="https://gist.github.com/navraj213/c2e228a399dfa8a05ef21f21073e30be#file-emailtransmitter-py">Automatic Email Transmitter</a></li>
         <li><a href="https://gist.github.com/navraj213/9ca445be44940eb881860c3d23f88f79">Arithmetic Formatter</a></li>
         <li><a href="https://gist.github.com/navraj213/6cf2d5c81fa81a653df068d4089afc78#submitting">Time Calculator</a></li>
+        <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">Budget App</a></li>
       </ui>
     </ul>
     </ul>
