@@ -24,6 +24,7 @@
         <li><a href="https://gist.github.com/navraj213/9ca445be44940eb881860c3d23f88f79">Arithmetic Formatter</a></li>
         <li><a href="https://gist.github.com/navraj213/6cf2d5c81fa81a653df068d4089afc78#submitting">Time Calculator</a></li>
         <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">Budget App</a></li>
+        <li><a href="https://gist.github.com/navraj213/0a7dac890009aa6ea0514c3d9cb20624">Shape Calculator</a></li>
       </ui>
     </ul>
     </ul>
