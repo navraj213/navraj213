@@ -26,10 +26,15 @@
         <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">Budget App</a></li>
         <li><a href="https://gist.github.com/navraj213/0a7dac890009aa6ea0514c3d9cb20624">Shape Calculator</a></li>
         <li><a href="https://gist.github.com/navraj213/b5124b3d7ff0d5225a15ec47b9d18e19">Probability Calculator</a></li>
-        <p><a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/860823841910947864/875899812002791464/Navraj_Singh_Python_Certification.png" width="386" height="300"></a></p>
       </ui>
     </ul>
     </ul>
+    <h3>Certifications 📄</h3>
+    <p>
+        <ul>
+            <p><a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/860823841910947864/875899812002791464/Navraj_Singh_Python_Certification.png" width="386" height="300"></a></p>
+        </ul>
+    </p>
     <h3>Contact Me 🤳</h3>
     <p>
     <ul>
