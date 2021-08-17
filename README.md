@@ -6,7 +6,7 @@
   <p>
     <ul>
       <li>👀 I’m interested in pursuing Computer Science, and software development!</li>
-      <li>🌱 I’m currently learning C++.</li>
+      <li>🌱 I’m currently learning object oriented languages!</li>
       <li>💞️ I’m looking to collaborate on app development or future coding projects!</li>
     </ul>
   </p>
