@@ -32,7 +32,7 @@
     <h3>Certifications 📄</h3>
     <p>
         <ul>
-            <p><a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/860823841910947864/875899812002791464/Navraj_Singh_Python_Certification.png" width="386" height="300"></a></p>
+            <p><a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/877443058109677588/877443257838211112/Navraj_Singh_Python_Certification.png" width="386" height="300"></a></p>
         </ul>
     </p>
     <h3>Contact Me 🤳</h3>
