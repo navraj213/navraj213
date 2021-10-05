@@ -39,6 +39,7 @@
     <p>
     <ul>
       <li><a href="mailto:navrajs213@gmail.com?cc=navraj213@gmail.com&subject=Hi%20Navraj!%20%7C%20Mail%20from%20GitHub&body=Hi%20Navraj%2C%20we%20saw%20your%20Github%20profile%20and%20wanted%20to%20comment%20that%2C">Send Email Here</a></li>
+      <li><a href="https://replit.com/@NAVRAJSINGH2">My Replit 📂</a></li>
     </ul>
     </p>
 
