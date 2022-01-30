@@ -6,8 +6,8 @@
   <p>
     <ul>
       <li>👀 I’m interested in pursuing Computer Science, and software development!</li>
-      <li>🌱 I’m currently learning object oriented languages!</li>
-      <li>💞️ I’m looking to collaborate on app development or future coding projects!</li>
+      <li>🌱 I’m currently learning more about object oriented languages!</li>
+      <li>💞️ I’m looking forward to collaborate on app development and future projects!</li>
     </ul>
   </p>
   
@@ -19,6 +19,7 @@
         </ul>
       <h4>Python 🐍</h4>
       <ul>
+        <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">TicTacToe</a> | made for a class project (in python)</li>
         <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a> | with 403 error prevention</li>
         <li><a href="https://gist.github.com/navraj213/c2e228a399dfa8a05ef21f21073e30be#file-emailtransmitter-py">Automatic Email Transmitter</a></li>
         <li><a href="https://gist.github.com/navraj213/9ca445be44940eb881860c3d23f88f79">Arithmetic Formatter</a></li>
