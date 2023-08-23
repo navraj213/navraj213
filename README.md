@@ -1,56 +1,34 @@
-<!DOCTYPE html>
-<main>
-  <h1>Hi, I’m Navraj Singh 👋 </h1>
-  
-  <h3>About me 😁</h3>
-  <p>
-    <ul>
-      <li>👀 I’m interested in pursuing Computer Science, and software development!</li>
-      <li>🌱 I’m currently learning more about object oriented languages!</li>
-      <li>💞️ I’m looking forward to collaborate on app development and future projects!</li>
-    </ul>
-  </p>
-  
-  <h3>Projects 📂</h3>
-    <ul>
-      <h4>Java ☕️</h4>
-        <ul>
-          <li><a href="https://gist.github.com/navraj213/7e2624fe41f08434b9ef7409ea4b0516">TicTacToe Game</a> | made for a class project</li>
-        </ul>
-      <h4>Python 🐍</h4>
-      <ul>
-        <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">TicTacToe</a> | made for a class project (in python)</li>
-        <li><a href="https://gist.github.com/navraj213/0f3d170ea9de97b9722c5dfa5e14b05d">Url Bot Requester</a> | with 403 error prevention</li>
-        <li><a href="https://gist.github.com/navraj213/c2e228a399dfa8a05ef21f21073e30be#file-emailtransmitter-py">Automatic Email Transmitter</a></li>
-        <li><a href="https://gist.github.com/navraj213/9ca445be44940eb881860c3d23f88f79">Arithmetic Formatter</a></li>
-        <li><a href="https://gist.github.com/navraj213/6cf2d5c81fa81a653df068d4089afc78#submitting">Time Calculator</a></li>
-        <li><a href="https://gist.github.com/navraj213/c904d8bf9c36a445676ee312f0a9d44b">Budget App</a></li>
-        <li><a href="https://gist.github.com/navraj213/0a7dac890009aa6ea0514c3d9cb20624">Shape Calculator</a></li>
-        <li><a href="https://gist.github.com/navraj213/b5124b3d7ff0d5225a15ec47b9d18e19">Probability Calculator</a></li>
-      </ui>
-    </ul>
-    </ul>
-    <h3>Certifications 📄</h3>
-    <p>
-        <ul>
-            <p><a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/877443058109677588/877443257838211112/Navraj_Singh_Python_Certification.png" width="386" height="300"></a></p>
-        </ul>
-    </p>
-    <h3>Contact Me 🤳</h3>
-    <p>
-    <ul>
-      <li><a href="mailto:navrajs213@gmail.com?cc=navraj213@gmail.com&subject=Hi%20Navraj!%20%7C%20Mail%20from%20GitHub&body=Hi%20Navraj%2C%20we%20saw%20your%20Github%20profile%20and%20wanted%20to%20comment%20that%2C">Send Email Here</a></li>
-      <li><a href="https://replit.com/@navGTM">My Replit 📂</a></li>
-    </ul>
-    </p>
+<img src="https://github.com/navraj213/navraj213/blob/main/giphy.gif?raw=true" width=70% />
 
-</main>
-</html>
+<div>
+  <img src="https://educationusa.state.gov/sites/default/files/styles/content_area_full_width/public/field_hei_logo/nyit-logo-pms.jpg?itok=6yOYbJdd" width="35px" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Navraj-Singh-blue">
+</div>
 
+## About me <img src="https://github.com/navraj213/navraj213/blob/main/wave.gif?raw=true" width="20px" height="20px" />
+<li>👀 I’m pursuing a B.S. - Computer Science (NYIT class of 2026).</li>
+<li>🌱 I’m currently learning more about object-oriented languages!</li>
+<li>💞️ I’m looking forward to collaborating on app development and future projects!</li>
 
+## Technology and Tools 🔧 
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=microsoft&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Red_Hat-informational?style=flat&logo=redhat&logoColor=white&color=blue)
 
+## Projects & Stats 📈
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navraj213&repo=find)](https://github.com/navraj213/find)
 
-<!---
-navraj213/navraj213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navraj213)
+
+![Metrics](https://metrics.lecoq.io/navraj213?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+## Certifications 📄
+<a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/877443058109677588/877443257838211112/Navraj_Singh_Python_Certification.png" width="386" height="300"></a>
+
+## Contact Me 🤳
+[![Replit Badge](https://img.shields.io/badge/Send%20a%20Email-grey?style=for-the-badge&logo=gmail)](mailto:navrajs213@gmail.com?cc=navraj213@gmail.com&subject=Hi%20Navraj!%20%7C%20Mail%20from%20GitHub&body=Hi%20Navraj%2C%20we%20saw%20your%20Github%20profile%20and%20wanted%20to%20comment%20that%2C)
+
+[![Replit Badge](https://img.shields.io/badge/My_Replit-gray?logo=replit)](https://replit.com/@navGTM)
+[![Replit Badge](https://img.shields.io/badge/My_Linkedin-gray?logo=linkedin)](https://www.linkedin.com/in/navraj-singh-0ab937219/)
