@@ -27,6 +27,13 @@
 ## Certifications 📄
 <a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/877443058109677588/877443257838211112/Navraj_Singh_Python_Certification.png" width="386" height="300"></a>
 
+## Future Plans 🔮
+<li>Expand knowledge and skills in the field of Computer Science through continuous learning and practical application.</li>
+<li>Contribute to innovative projects that leverage technology to address real-world challenges.</li>
+<li>Develop leadership abilities to effectively guide and collaborate within diverse teams.</li>
+<li>Explore opportunities to make a positive impact on the community by applying technical expertise and strong interpersonal skills.</li>
+<li>Enthusiastic about contributing to leading technology innovators to expand their global influence and continuous groundbreaking advancements.</li>
+
 ## Contact Me 🤳
 [![Replit Badge](https://img.shields.io/badge/Send%20a%20Email-grey?style=for-the-badge&logo=gmail)](mailto:navrajs213@gmail.com?cc=navraj213@gmail.com&subject=Hi%20Navraj!%20%7C%20Mail%20from%20GitHub&body=Hi%20Navraj%2C%20we%20saw%20your%20Github%20profile%20and%20wanted%20to%20comment%20that%2C)
 
