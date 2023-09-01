@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navraj213)
 
-![Metrics](https://metrics.lecoq.io/navraj213?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=navraj213&show_icons=true&theme=transparent&hide_rank=true)
 ## Certifications 📄
 <a href="https://www.freecodecamp.org/certification/navrajsingh/scientific-computing-with-python-v7"><img alt="Python Certification (300 hours)" src="https://cdn.discordapp.com/attachments/877443058109677588/877443257838211112/Navraj_Singh_Python_Certification.png" width="386" height="300"></a>
 
